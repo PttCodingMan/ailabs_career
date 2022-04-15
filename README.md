@@ -41,4 +41,4 @@ Good to have:
 2. Previous experience with filesystems, concurrency, multithreading, server architectures, and distributed systems.
 3. UNIX/Linux systems knowledge and/or systems administration background.
 
-https://ailabs.tw/career/
+https://www.104.com.tw/company/1a2x6bm0oj
