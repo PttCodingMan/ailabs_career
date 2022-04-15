@@ -40,3 +40,5 @@ Good to have:
 1. Algorithms, Architecture, Cloud Computing, Database, Distributed Systems, Networking.
 2. Previous experience with filesystems, concurrency, multithreading, server architectures, and distributed systems.
 3. UNIX/Linux systems knowledge and/or systems administration background.
+
+https://ailabs.tw/career/
