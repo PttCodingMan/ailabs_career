@@ -25,7 +25,7 @@
 https://www.104.com.tw/company/1a2x6bm0oj
 
 官方網站:
-https://ailabs.tw/
+https://www.yating.tw/
 
 ---
 
@@ -53,4 +53,4 @@ Good to have:
 https://www.104.com.tw/company/1a2x6bm0oj
 
 Website:
-https://ailabs.tw/
+https://www.yating.tw/
