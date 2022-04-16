@@ -27,7 +27,7 @@ https://www.104.com.tw/company/1a2x6bm0oj
 官方網站:  
 https://www.yating.tw/
 
-履歷請寄至. 
+履歷請寄至  
 zakk@ailabs.tw
 
 ---
