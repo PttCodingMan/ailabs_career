@@ -21,7 +21,11 @@
 2. 曾經有檔案系統、併發、多執行緒、伺服器架構及分散式系統的工作經驗
 3. UNIX/Linux 作業系統、系統管理員相關的知識
 
+104:
 https://www.104.com.tw/company/1a2x6bm0oj
+
+官方網站:
+https://ailabs.tw/
 
 We are hiring for senior backend engineers to support our fast-growing business. You will work in a fast-paced and agile team. We love engineers who have ability to use pragmatic approaches to solve problems. We also love engineers who are passionate about facing challenges and learning new technologies. Last but not least, we need you to be a team player because we believe a good product comes from great team works.
 As a senior backend engineer, you will in charge of:
@@ -43,4 +47,8 @@ Good to have:
 2. Previous experience with filesystems, concurrency, multithreading, server architectures, and distributed systems.
 3. UNIX/Linux systems knowledge and/or systems administration background.
 
+104:
 https://www.104.com.tw/company/1a2x6bm0oj
+
+Website:
+https://ailabs.tw/
