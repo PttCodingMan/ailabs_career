@@ -21,11 +21,14 @@
 2. 曾經有檔案系統、併發、多執行緒、伺服器架構及分散式系統的工作經驗
 3. UNIX/Linux 作業系統、系統管理員相關的知識
 
-104:
+104:  
 https://www.104.com.tw/company/1a2x6bm0oj
 
-官方網站:
+官方網站:  
 https://www.yating.tw/
+
+履歷請寄至. 
+zakk@ailabs.tw
 
 ---
 
@@ -49,8 +52,12 @@ Good to have:
 2. Previous experience with filesystems, concurrency, multithreading, server architectures, and distributed systems.
 3. UNIX/Linux systems knowledge and/or systems administration background.
 
-104:
+104:  
 https://www.104.com.tw/company/1a2x6bm0oj
 
-Website:
+Website:  
 https://www.yating.tw/
+
+You can apply here
+zakk@ailabs.tw
+
