@@ -27,6 +27,8 @@ https://www.104.com.tw/company/1a2x6bm0oj
 官方網站:
 https://ailabs.tw/
 
+---
+
 We are hiring for senior backend engineers to support our fast-growing business. You will work in a fast-paced and agile team. We love engineers who have ability to use pragmatic approaches to solve problems. We also love engineers who are passionate about facing challenges and learning new technologies. Last but not least, we need you to be a team player because we believe a good product comes from great team works.
 As a senior backend engineer, you will in charge of:
 1. Design large scale, fault tolerant cloud based service infrastructure.
