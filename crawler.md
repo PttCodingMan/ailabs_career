@@ -18,8 +18,8 @@
 1. 具備演算法、系統架構、雲端運算、分散式系統、網路相關的知識
 2. 大型爬蟲系統設計的工作經驗
 3. 熟悉 Python 平行化與非同步程式設計架構
-4. UNIX/Linux 作業系統、系統管理員相關的知識
-5. 熟悉 Kubernetes 與其相關工具
+4. 熟悉 Kubernetes 與其相關工具
+5. UNIX/Linux 作業系統、系統管理員相關的知識
 
 104:  
 https://www.104.com.tw/company/1a2x6bm0oj
