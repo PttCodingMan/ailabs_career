@@ -22,10 +22,10 @@
 5. UNIX/Linux 作業系統、系統管理員相關的知識
 
 104:  
-https://www.104.com.tw/company/1a2x6bm0oj
+[https://www.104.com.tw/company/1a2x6bm0oj](https://www.104.com.tw/company/1a2x6bm0oj)
 
 官方網站:  
-https://www.yating.tw/
+[https://www.yating.tw/](https://yating.tw/)
 
 履歷請寄至  
 truth.tseng@ailabs.tw
